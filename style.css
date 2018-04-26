@@ -12,10 +12,10 @@ h1{
 
 
 pre.poem {
+	overflow: scroll;
 	padding: 2px;
 	border: 1px dotted black;
-	width: 40px;
+	width: 70px;
 	height: 40px;
-	overflow: scroll
 	
 }
