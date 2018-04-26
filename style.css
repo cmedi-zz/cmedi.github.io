@@ -1,24 +1,10 @@
 
+body {
+	font: 1em/150% Helvetica, Arial, sans-serif;
 h1 {
-	font: 3em/200% Helvetica, Arial, sans-serif;
-    	margin: auto;
-    	position: absolute;
-	align-items: right;
-	justify-content: right;
-	padding-top: 50px;
-    	padding-right: 30px;
-    	padding-bottom: 50px;
-    	padding-left: 80px;
+	
 }
 	
 pre.poem {
-	font: 1em/150% Helvetica, Arial, sans-serif;
-	padding-top: 50px;
-	padding-right: 30px;
-	padding-bottom: 50px;
-	padding-left: 80px;
-	padding-top: 50px;
-	text-align center;
-	vertical-align: middle;
-	line-height: 1000px;
+	
 }
