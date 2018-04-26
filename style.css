@@ -1,7 +1,10 @@
+
 h1 {
 	font: 3em/200% Helvetica, Arial, sans-serif;
     	margin: auto;
     	position: absolute;
+	align-items: right;
+	justify-content: right;
 }
 	
 pre.poem {
