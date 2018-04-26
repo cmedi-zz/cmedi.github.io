@@ -9,8 +9,7 @@ h1 {
 	
 pre.poem {
 	font: 1em/150% Helvetica, Arial, sans-serif;
-	display: flex;
-	position: fixed;
-	align-items: center;
-	justify-content: center;
+	position: sticky;
+	align-items: left;
+	justify-content: left;
 }
