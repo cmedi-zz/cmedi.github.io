@@ -11,12 +11,11 @@ h1 {
 }
 	
 pre.poem {
-	font: 1em/200% Helvetica, Arial, sans-serif;
-	left: 0;
+	font: 1em/150% Helvetica, Arial, sans-serif;
 	line-height: 200px;
 	margin: auto;
 	margin-top: -100px;
 	position: absolute;
-	top: 50%;
+	top: 100%;
 	width: 100%;	
 }
