@@ -4,8 +4,9 @@ body {
 }
 h1 {
 	font: 5em/300% Helvetica, Arial, sans-serif;	
+	text-align: center;
 }
 	
 pre.poem {
-	line-height: 100 em;
+	line-height: 1000000 px;
 }
