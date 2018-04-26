@@ -1,8 +1,3 @@
-
-html{
-  height: 100%;
-}
-
 body{
   font-family: 'Fjalla One', sans-serif;
   background: $background;
@@ -19,26 +14,6 @@ h1{
   letter-spacing: 2px;
 }
 
-.title{
-  transform: translateX(-50%) rotate(-10deg);
-  display: block;
-  float: left;
-  left: 50%;
-  position: relative;
-
-}
-
-.title{
-  &:nth-child(1){
-    color: $red;
-  }
-  &:nth-child(2){
-    color: $green;
-  }
-  &:nth-child(3){
-    color: $yellow;
-  }
-}
 
 pre.poem {
 	line-height: 1000000 px;
