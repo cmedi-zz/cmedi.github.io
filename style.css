@@ -12,7 +12,5 @@ pre.poem {
 		padding: 2em;
 		margin: 0 auto;
 		vertical-align: middle;
-		line-height: 500px;
-		overflow-y: hidden;
-		
+		line-height: 500px;		
 }
