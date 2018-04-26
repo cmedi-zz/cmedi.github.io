@@ -13,4 +13,5 @@ h1{
 pre.poem {
 	line-height: 1000000 px;
 	overflow: auto; width: 300px; height 200px;
+	border-style: dotted;
 }
