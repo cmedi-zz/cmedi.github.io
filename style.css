@@ -1,16 +1,19 @@
 h1 {
 	font: 3em/200% Helvetica, Arial, sans-serif;
-	margin: 0 auto;
-	padding: 2em;
-	line-height: 200px
-	vertical-align: middle;
+	left: 0;
+   	line-height: 200px;
+    	margin: auto;
+    	margin-top: -100px;
+    	position: absolute;
+    	top: 50%;
+    	width: 100%;
 	
 }
 	
 pre.poem {
-		font: 1em/200% Helvetica, Arial, sans-serif;
-		padding: 2em;
-		margin: 0 auto;
-		vertical-align: middle;
-		line-height: 500px;		
+	font: 1em/200% Helvetica, Arial, sans-serif;
+	padding: 2em;
+	margin: 0 auto;
+	vertical-align: middle;
+	line-height: 500px;		
 }
