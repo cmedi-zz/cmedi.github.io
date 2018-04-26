@@ -85,14 +85,6 @@ h1{
   }
 }
 
-body {
-	font: 1em/150% Helvetica, Arial, sans-serif;
-}
-h1 {
-	font: 5em/300% Helvetica, Arial, sans-serif;	
-	text-align: center;
-}
-	
 pre.poem {
 	line-height: 1000000 px;
 }
